@@ -135,8 +135,11 @@ React js | Node js | Express js | MongoDB
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/cherry16grace/cherry16grace/output/github-contribution-grid-snake.svg">
+<p align="center">
 
+<img src="https://raw.githubusercontent.com/cherry16grace/cherry16grace/gh-pages/github-contribution-grid-snake.svg">
+
+</p>
 
 <h3 align="center">
 
